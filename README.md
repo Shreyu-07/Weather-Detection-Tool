@@ -14,7 +14,8 @@
 
 ## 🖥️ Demo
 
-![Weather GUI](https://user-images.githubusercontent.com/your-image-url/weather-demo.png)
+![Lovepik_com-401059349-weather-vector-icon](https://github.com/user-attachments/assets/d25ba0b8-4c33-4af2-b90d-d31c9d212cc7)
+
 
 ---
 
@@ -91,7 +92,9 @@ Weather details will be shown in the GUI and terminal 🌡️
 🌍 Example Output
 
 ██████████████████████████████████
+
 WELCOME TO WEATHER DETECTION TOOL
+
 ██████████████████████████████████
 
 Connecting to the Satellite...
