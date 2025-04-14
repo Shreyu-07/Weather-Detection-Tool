@@ -50,7 +50,7 @@
 
 bash
 
-```git clone https://github.com/your-username/weather-detection-tool.git```
+```git clone https://github.com/Shreyu-07/Weather-Detection-Tool.git```
 ```cd weather-detection-tool```
 
 2. Install Dependencies
