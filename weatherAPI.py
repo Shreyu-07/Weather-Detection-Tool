@@ -49,7 +49,7 @@ url1 = "https://api.openweathermap.org/data/2.5/weather"  # Weather API
 params = {
     "q": nameOfTheplace,
     "limit": "5",
-    "appid": "9e52f00c9bdd9e0e54b17d861f6a5fa9"
+    "appid": add your API here
 }
 
 respons = requests.get(url=url, params=params)
